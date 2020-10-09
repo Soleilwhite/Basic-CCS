@@ -22,6 +22,7 @@ body {
   margin: 0 auto;
   background-image: url("../img/blue\ graident.jpg");
   background-position: center;
+  background-repeat: repeat-y;
 }
 h1 {
   color: green;
